@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio_config>
+    <feature name="USB_SPEECH_ECHO_DELAY" config="yes"/>
+    <feature name="GOODIX_LVIMFS" config="All"/>
+    <feature name="OPLUS_KTV" config="KTV_V2_PCM"/>
+    <feature name="OPLUS_RECORD_MUTE_TIME_MS" config="200"/>
+    <feature name="OPLUS_USB_KTV_SUPPORT" config="yes"/>
+    <feature name="OPLUS_AEC_RECORD_SUPPORT" config="yes"/>
+    <feature name="CAMCORDER_SWAP_MIC" config="SUPPORT"/>
+    <feature name="OPLUS_USB_PERIOD_US" config="16000"/>
+    <feature name="OPLUS_SMARTPA_CALI_SUPPORT" config="NO"/>
+</audio_config>

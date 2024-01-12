@@ -1,0 +1,43 @@
+
+# Build.java
+ro.build.id=SP1A.210812.016
+ro.product.manufacturer=realme
+ro.product.brand=realme
+ro.product.model=RMX3686
+ro.product.name=RMX3686
+ro.product.device=RE58A5L1
+ro.product.first_api_level=33
+ro.build.version.incremental=T.R4T2.12f809b-29cff
+ro.build.version.base_os=realme/RMX3686/RE58A5L1:13/SP1A.210812.016/T.R4T2.127b769-1:user/release-keys
+ro.build.version.release=13
+ro.build.version.release_or_codename=13
+ro.build.fingerprint=realme/RMX3686/RE58A5L1:13/SP1A.210812.016/T.R4T2.12f809b-29cff:user/release-keys
+ro.odm.build.fingerprint=realme/RMX3686/RE58A5L1:13/SP1A.210812.016/T.R4T2.12f809b-29cff:user/release-keys
+ro.odm.build.version.incremental=T.R4T2.12f809b-29cff
+ro.product.odm.brand=realme
+ro.product.odm.manufacturer=realme
+ro.product.odm.model=RMX3686
+ro.product.odm.device=RE58A5L1
+ro.product.odm.name=RMX3686
+ro.odm.build.date=Fri Aug 25 02:54:15 CST 2023
+ro.odm.build.date.utc=1692903255
+ro.bootimage.build.fingerprint=realme/RMX3686/RE58A5L1:13/SP1A.210812.016/T.R4T2.12f809b-29cff:user/release-keys
+ro.bootimage.build.version.incremental=T.R4T2.12f809b-29cff
+ro.product.bootimage.brand=realme
+ro.product.bootimage.manufacturer=realme
+ro.product.bootimage.model=RMX3686
+ro.product.bootimage.device=RE58A5L1
+ro.product.bootimage.name=RMX3686
+ro.bootimage.build.date=Fri Aug 25 02:54:15 CST 2023
+ro.bootimage.build.date.utc=1692903255
+ro.vendor.build.fingerprint=realme/RMX3686/RE58A5L1:13/SP1A.210812.016/T.R4T2.12f809b-29cff:user/release-keys
+ro.vendor.build.version.incremental=T.R4T2.12f809b-29cff
+ro.product.vendor.brand=realme
+ro.product.vendor.manufacturer=realme
+ro.product.vendor.model=RMX3686
+ro.product.vendor.device=RE58A5L1
+ro.product.vendor.name=RMX3686
+ro.vendor.build.date=Fri Aug 25 02:54:15 CST 2023
+ro.vendor.build.date.utc=1692903255
+
+# OPPO

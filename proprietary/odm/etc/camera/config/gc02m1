@@ -1,0 +1,81 @@
+[
+
+{
+  "Key": "NORMAL_RAWHDR_OUTDOOR_ISO",
+  "Value": "160"
+},
+
+{
+  "Key": "NORMAL_RAWHDR_OUTDOOR_FACE_ISO",
+  "Value": "250"
+},
+
+{
+  "Key": "NORMAL_RAWHDR_INDOOR_ISO",
+  "Value": "400"
+},
+
+{
+  "Key": "NORMAL_RAWHDR_INDOOR_FACE_ISO",
+  "Value": "500"
+},
+
+{
+  "Key": "REAR_LOWLIGHT_YUVHDR_ISO",
+  "Value": "1100"
+},
+
+{
+  "Key": "REAR_LOWLIGHT_MFNR_ISO",
+  "Value": "4000"
+},
+
+{
+  "Key": "NIGHT_SCENE_LUX_INDEX_NIGHT_MIN",
+  "Value": "400"
+},
+
+{
+  "Key": "NIGHT_SCENE_LUX_INDEX_NIGHT_MAX",
+  "Value": "500"
+},
+
+{
+  "Key": "NIGHT_SCENE_SENSOR_BAYER_PATTERN",
+  "Value": "0"
+},
+
+{
+  "Key": "NIGHT_SCENE_CAMERA_MODE",
+  "Value": "1122"
+},
+
+{
+  "Key": "BOKEH_ROTATION_VALUE",
+  "Value": "180"
+},
+
+{
+  "Key": "SENSOR_PHYSICAL_ID",
+  "Value": "3"
+},
+
+{
+  "Key": "AINR_AIS_ISO",
+  "Value": "1000000"
+},
+
+{
+   "VendorTag": "aps.params.draw.text.info",
+   "Type": "Int32",
+   "Count": "8",
+   "Value": "0   /*cap origin coordinate*/,
+             0   /*cap paint direct 0:y-axis 1:x-axis**/,
+             5   /*cap x-axis ratio*/,
+             95  /*cap y-axis ratio*/,
+             1   /*font ratio*/,
+             0   /*font color 0:black 255:white*/,
+             255 /*backgroup color 0:transparent 255:white*/,
+             1   /*disable align*/"
+}
+]
